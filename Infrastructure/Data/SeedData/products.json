@@ -1,146 +1,452 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "Name": "Voyager polarized metal frame sunglasses",
+    "Description": "These aviator-style sunglasses feature a classic metal frame and polarized lenses, perfect for outdoor adventures and travel.",
+    "Price": 33,
+    "PictureUrl": "images/products/sunglasses-1.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 1
+    "ProductBrandId": 1,
+    "UnitsSold": 523
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Name": "Icon polarized plastic frame sunglasses",
+    "Description": "These classic wayfarer-style sunglasses feature a plastic frame and polarized lenses, suitable for any occasions.",
+    "Price": 109,
+    "PictureUrl": "images/products/sunglasses-2.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 1
+    "ProductBrandId": 5,
+    "UnitsSold": 867
   },
   {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "Name": "Explorer polarized sporty sunglasses",
+    "Description": "These sporty sunglasses feature a durable plastic frame and polarized lenses, with a wrap-around design for added protection.",
+    "Price": 25,
+    "PictureUrl": "images/products/sunglasses-3.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 4,
+    "UnitsSold": 299
   },
   {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
+    "Name": "Trendsetter polarized fashion sunglasses",
+    "Description": "These fashion-forward sunglasses feature a unique, oversized frame and polarized lenses, perfect for making a statement.",
+    "Price": 104,
+    "PictureUrl": "images/products/sunglasses-4.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 3,
+    "UnitsSold": 324
   },
   {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "Name": "Beachcomber polarized plastic frame sunglasses",
+    "Description": "These lightweight, polarized sunglasses feature a plastic frame and mirrored lenses, perfect for a day at the beach.",
+    "Price": 42,
+    "PictureUrl": "images/products/sunglasses-5.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 4
+    "ProductBrandId": 1,
+    "UnitsSold": 875
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "Name": "Bohemian polarized metal frame sunglasses",
+    "Description": "These round-shaped sunglasses feature a metal frame and polarized lenses, perfect for a bohemian and vintage look.",
+    "Price": 108,
+    "PictureUrl": "images/products/sunglasses-6.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 5
+    "ProductBrandId": 6,
+    "UnitsSold": 682
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Name": "Classic polarized plastic frame sunglasses",
+    "Description": "These timeless sunglasses feature a simple, elegant design with a plastic frame and polarized lenses.",
+    "Price": 95,
+    "PictureUrl": "images/products/sunglasses-7.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2,
+    "UnitsSold": 425
+  },
+  {
+    "Name": "Urbanite polarized metal frame sunglasses",
+    "Description": "These sleek and modern sunglasses feature a metal frame and polarized lenses, perfect for the city.",
+    "Price": 60,
+    "PictureUrl": "images/products/sunglasses-8.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6,
+    "UnitsSold": 762
+  },
+  {
+    "Name": "Nature polarized wooden frame sunglasses",
+    "Description": "These sunglasses feature a wooden frame and polarized lenses, perfect for outdoor enthusiasts.",
+    "Price": 99,
+    "PictureUrl": "images/products/sunglasses-9.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1,
+    "UnitsSold": 664
+  },
+  {
+    "Name": "Radiant polarized metal frame sunglasses",
+    "Description": "These classic sunglasses feature a classic metal frame and polarized lenses, perfect for outdoor adventures and travel.",
+    "Price": 19,
+    "PictureUrl": "images/products/sunglasses-10.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2,
+    "UnitsSold": 158
+  },
+  {
+    "Name": "Adventurer rugged water-resistant cap",
+    "Description": "This rugged, outdoorsy cap is made from durable, water-resistant canvas and features a wide brim to protect from the sun and a chin strap to keep it secure during windy conditions.",
+    "Price": 59,
+    "PictureUrl": "images/products/hats-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4,
+    "UnitsSold": 650
+  },
+  {
+    "Name": "Classic ribbon band wool felt cap",
+    "Description": "This timeless cap is made from high-quality wool felt and features a classic ribbon band and pinched crown.",
+    "Price": 72,
+    "PictureUrl": "images/products/hats-2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4,
+    "UnitsSold": 481
+  },
+  {
+    "Name": "Trendy embroidered soft-cotton cap",
+    "Description": "This stylish, fashion-forward baseball cap is made from a soft, cotton blend fabric and features a unique embroidered design.",
+    "Price": 100,
+    "PictureUrl": "images/products/hats-3.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1,
+    "UnitsSold": 962
+  },
+  {
+    "Name": "Bohemian tassel band straw cap",
+    "Description": "This bohemian-inspired wide-brimmed sun cap is made from natural woven straw and features a colorful band with tassels.",
+    "Price": 52,
+    "PictureUrl": "images/products/hats-4.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6,
+    "UnitsSold": 586
+  },
+  {
+    "Name": "Winter warm acrylic knit cap",
+    "Description": "This warm, cozy cap is made from soft acrylic knit and features a fleece lining for added insulation.",
+    "Price": 29,
+    "PictureUrl": "images/products/hats-5.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5,
+    "UnitsSold": 847
+  },
+  {
+    "Name": "Beach mesh-back trucker cap",
+    "Description": "This lightweight, mesh-backed trucker hat is perfect for a day at the beach, it features adjustable snapback closure for a perfect fit and a colorful design.",
+    "Price": 75,
+    "PictureUrl": "images/products/hats-6.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6,
+    "UnitsSold": 583
+  },
+  {
+    "Name": "Classic wool newsboy cap",
+    "Description": "This traditional wool newsboy cap features a classic 8-panel design, made from 100% wool and features a quilted lining for added warmth and comfort.",
+    "Price": 29,
+    "PictureUrl": "images/products/hats-7.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6,
+    "UnitsSold": 931
+  },
+  {
+    "Name": "Savannah Traditional Brown Microfiber Sofa",
+    "Description": "The Savannah couch is a classic, traditional design that features a sturdy hardwood frame and plush, comfortable cushions. The couch is upholstered in a rich, chocolate-brown microfiber fabric that is both durable and easy to clean.",
+    "Price": 21,
+    "PictureUrl": "images/products/couches-1.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2,
+    "UnitsSold": 249
+  },
+  {
+    "Name": "Aspen Rustic Pine Sofa",
+    "Description": "The Aspen couch is a rustic, cabin-inspired design that features a sturdy pine frame and comfortable, plush cushions. The couch is upholstered in a warm, oatmeal-colored microfiber fabric that is both durable and easy to clean.",
+    "Price": 34,
+    "PictureUrl": "images/products/couches-2.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3,
+    "UnitsSold": 721
+  },
+  {
+    "Name": "Midnight Modern Velvet Sofa",
+    "Description": "The Midnight couch is a sleek and modern design that features clean lines and a minimalist aesthetic. The couch is upholstered in a deep, midnight-blue velvet fabric that is both soft and luxurious to the touch.",
+    "Price": 67,
+    "PictureUrl": "images/products/couches-3.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3,
+    "UnitsSold": 492
+  },
+  {
+    "Name": "Harrison Vintage Tweed Sofa",
+    "Description": "The Harrison couch is a vintage-inspired design that features a sturdy hardwood frame and plush, comfortable cushions. The couch is upholstered in a soft, grey tweed fabric that is both durable and easy to clean.",
+    "Price": 102,
+    "PictureUrl": "images/products/couches-4.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3,
+    "UnitsSold": 377
+  },
+  {
+    "Name": "Everest Contemporary White Leather Sofa",
+    "Description": "The Everest couch is a contemporary design that features clean lines and a minimalist aesthetic. The couch is upholstered in a soft, white leather that is both durable and easy to clean.",
+    "Price": 100,
+    "PictureUrl": "images/products/couches-5.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4,
+    "UnitsSold": 662
+  },
+  {
+    "Name": "Carmel Traditional Beige Chenille Sofa",
+    "Description": "The Carmel couch is a classic, traditional design that features a sturdy hardwood frame and plush, comfortable cushions. The couch is upholstered in a soft, beige chenille fabric that is both durable and easy to clean.",
+    "Price": 68,
+    "PictureUrl": "images/products/couches-6.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2,
+    "UnitsSold": 618
+  },
+  {
+    "Name": "Harbor Coastal Microfiber Sofa",
+    "Description": "The Harbor couch is a coastal-inspired design that features a sturdy hardwood frame and plush, comfortable cushions. The couch is upholstered in a light, seashell-colored microfiber fabric that is both durable and easy to clean.",
+    "Price": 28,
+    "PictureUrl": "images/products/couches-7.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3,
+    "UnitsSold": 268
+  },
+  {
+    "Name": "Regal Luxurious Velvet Sofa",
+    "Description": "The Regal couch is a luxurious, traditional design that features a sturdy hardwood frame and plush, comfortable cushions. The couch is upholstered in a rich, wine-colored velvet fabric that is both soft and luxurious to the touch.",
+    "Price": 13,
+    "PictureUrl": "images/products/couches-8.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 5,
+    "UnitsSold": 809
+  },
+  {
+    "Name": "Aurora Modern Light Gray Linen Sofa",
+    "Description": "The Aurora couch is a modern design that features clean lines and a minimalist aesthetic. The couch is upholstered in a soft, light gray linen fabric that is both durable and easy to clean.",
+    "Price": 91,
+    "PictureUrl": "images/products/couches-9.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3,
+    "UnitsSold": 245
+  },
+  {
+    "Name": "Mountaineer wool-blend beanie",
+    "Description": "This warm and rugged beanie is made from a wool blend and features a fleece lining to keep your head and ears warm in extreme cold weather, also includes a fold-over brim for added protection.",
+    "Price": 93,
+    "PictureUrl": "images/products/beanies-1.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3,
+    "UnitsSold": 67
+  },
+  {
+    "Name": "Urbanite soft acrylic beanie",
+    "Description": "This stylish beanie is made from a soft and warm acrylic knit, it features a trendy, slouchy design and a knit-in logo for a touch of urban edge.",
+    "Price": 82,
+    "PictureUrl": "images/products/beanies-2.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3,
+    "UnitsSold": 603
+  },
+  {
+    "Name": "Explorer brushed wool-blend beanie",
+    "Description": "This versatile beanie is made from a warm and breathable wool blend, it features a fold-over brim and a fleece lining for added warmth.",
+    "Price": 42,
+    "PictureUrl": "images/products/beanies-3.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5,
+    "UnitsSold": 636
+  },
+  {
+    "Name": "Skier soft acrylic beanie",
+    "Description": "This cozy beanie is made from a warm and stretchy acrylic knit, it features a fleece lining for added warmth and a pom-pom detail on top for a playful touch.",
+    "Price": 46,
+    "PictureUrl": "images/products/beanies-4.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1,
+    "UnitsSold": 417
+  },
+  {
+    "Name": "Classic cable-knit beanie",
+    "Description": "This classic beanie is made from a warm and soft wool blend, it features a classic cable-knit design and a fold-over brim for added warmth.",
+    "Price": 87,
+    "PictureUrl": "images/products/beanies-5.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1,
+    "UnitsSold": 685
+  },
+  {
+    "Name": "Retro wool-blend beanie",
+    "Description": "This vintage-inspired beanie is made from a warm wool blend and features a fold-over brim and a retro-inspired design.",
+    "Price": 84,
+    "PictureUrl": "images/products/beanies-6.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1,
+    "UnitsSold": 171
+  },
+  {
+    "Name": "Slouch warm acrylic beanie",
+    "Description": "This relaxed beanie is made from a soft and warm acrylic knit, it features a slouchy, oversized design and a knit-in logo for a touch of style.",
+    "Price": 99,
+    "PictureUrl": "images/products/beanies-7.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5,
+    "UnitsSold": 694
+  },
+  {
+    "Name": "Runner cushioned running sneakers",
+    "Description": "These sneakers are designed for performance, featuring a lightweight and breathable mesh upper, a cushioned insole for added comfort, and a durable rubber outsole for traction. Perfect for runners and athletes.",
+    "Price": 34,
+    "PictureUrl": "images/products/sneakers-1.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6,
+    "UnitsSold": 986
+  },
+  {
+    "Name": "Fashionista leather sneakers",
+    "Description": "These sneakers feature a unique, fashion-forward design with a combination of leather and suede upper and a chunky rubber sole. Perfect for adding a touch of style to any outfit.",
+    "Price": 23,
+    "PictureUrl": "images/products/sneakers-2.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6,
+    "UnitsSold": 427
+  },
+  {
+    "Name": "Classic white leather sneakers",
+    "Description": "These sneakers feature a timeless design with a clean, white leather upper and a rubber sole. Perfect for a casual, everyday look.",
+    "Price": 35,
+    "PictureUrl": "images/products/sneakers-3.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1,
+    "UnitsSold": 974
+  },
+  {
+    "Name": "Explorer waterproof leather sneakers",
+    "Description": "These sneakers feature a durable, waterproof leather upper and a rugged rubber outsole, perfect for outdoor adventures and exploring.",
+    "Price": 108,
+    "PictureUrl": "images/products/sneakers-4.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5,
+    "UnitsSold": 400
+  },
+  {
+    "Name": "Skater rubber sole sneakers",
+    "Description": "These sneakers feature a durable canvas upper and a rubber sole with reinforced stitching, perfect for skateboarding and other action sports.",
+    "Price": 104,
+    "PictureUrl": "images/products/sneakers-5.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3,
+    "UnitsSold": 921
+  },
+  {
+    "Name": "Comfort cushioned sneakers",
+    "Description": "These sneakers feature a cushioned insole and a flexible, breathable upper, perfect for those who prioritize comfort and support.",
+    "Price": 107,
+    "PictureUrl": "images/products/sneakers-6.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3,
+    "UnitsSold": 359
+  },
+  {
+    "Name": "Explorer rugged waterproof backpack",
+    "Description": "This rugged and durable backpack features multiple compartments, a water-resistant exterior, and a comfortable, padded shoulder strap. Perfect for outdoor adventures and travel.",
+    "Price": 71,
+    "PictureUrl": "images/products/bags-1.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5,
+    "UnitsSold": 577
+  },
+  {
+    "Name": "Commuter modern cotton backpack",
+    "Description": "This sleek and modern backpack features a laptop compartment, multiple pockets for organization, and a comfortable shoulder strap. Perfect for city commutes.",
+    "Price": 29,
+    "PictureUrl": "images/products/bags-2.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6,
+    "UnitsSold": 279
+  },
+  {
+    "Name": "Hiker waterproof backpack",
+    "Description": "This backpack features a durable, water-resistant exterior, multiple compartments for organization, and a comfortable, padded shoulder strap. Perfect for hiking and camping.",
+    "Price": 95,
+    "PictureUrl": "images/products/bags-3.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4,
+    "UnitsSold": 681
+  },
+  {
+    "Name": "Student classic backpack",
+    "Description": "This backpack features a spacious main compartment, a separate laptop compartment, and multiple pockets for organization. Perfect for students and professionals.",
+    "Price": 42,
+    "PictureUrl": "images/products/bags-4.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1,
+    "UnitsSold": 726
+  },
+  {
+    "Name": "Stylish faux leather backpack",
+    "Description": "This stylish backpack features a unique design with a combination of faux leather and canvas, multiple pockets for organization, and a comfortable shoulder strap.",
+    "Price": 100,
+    "PictureUrl": "images/products/bags-5.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 5,
+    "UnitsSold": 785
+  },
+  {
+    "Name": "Business professional leather backpack",
+    "Description": "This backpack features a sophisticated design with a combination of leather and canvas, multiple pockets for organization, and a comfortable shoulder strap. Perfect for professionals.",
+    "Price": 62,
+    "PictureUrl": "images/products/bags-6.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2,
+    "UnitsSold": 400
+  },
+  {
+    "Name": "Traveler waterproof backpack",
+    "Description": "This backpack features a durable, water-resistant exterior, multiple compartments for organization, and a comfortable, padded shoulder strap. Perfect for travel.",
+    "Price": 35,
+    "PictureUrl": "images/products/bags-7.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4,
+    "UnitsSold": 177
+  },
+  {
+    "Name": "Athlete durable waterproof backpack",
+    "Description": "This backpack features a durable, water-resistant exterior, multiple compartments for organization, and a comfortable, padded shoulder strap. Perfect for sports and fitness enthusiasts.",
+    "Price": 83,
+    "PictureUrl": "images/products/bags-8.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3,
+    "UnitsSold": 124
+  },
+  {
+    "Name": "Daypack lightweight backpack",
+    "Description": "This backpack features a lightweight design, multiple pockets for organization, and a comfortable shoulder strap. Perfect for day trips and excursions.",
     "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 2
+    "PictureUrl": "images/products/bags-9.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6,
+    "UnitsSold": 35
   },
   {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
+    "Name": "Camera owner padded backpack",
+    "Description": "This backpack features a padded, customizable interior that's perfect for protecting photography equipment, and multiple pockets for organization.",
+    "Price": 102,
+    "PictureUrl": "images/products/bags-10.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6,
+    "UnitsSold": 811
   },
   {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 6
-  },
-  {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "Name": "Tech commuter backpack",
+    "Description": "This backpack features a separate, padded compartment for a laptop, multiple pockets for organization, and a comfortable shoulder strap. Perfect for carrying electronic devices.",
+    "Price": 107,
+    "PictureUrl": "images/products/bags-11.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4,
+    "UnitsSold": 474
   }
 ]
